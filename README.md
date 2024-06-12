@@ -3,6 +3,6 @@
 
 - [Desafios de Código SQUADIO - Iniciante](/Desafios_Iniciante/)
 
-- [Desafios de Código SQUADIO - Intermediario I](/Desafio_Intermediário/)
+- [Desafios de Código SQUADIO - Intermediario I](/Desafio_Intermediario/)
 
 - [Desafios de Código SQUADIO - Intermediario II](/Desafio_Intermediario_II/)
